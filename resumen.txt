@@ -11,3 +11,40 @@ MENU ADMINISTRADOR
 3- Mantenimiento de las fechas 
 4- Mantenimiento de las sedes
 Digite opcion: 1
+
+MENU Mantenimiento de equipos
+1. Listar
+2. Agregar
+3. Eliminar
+4. Actualizar
+5. Regresar
+Digite opcion: 1
+
+Menu Lista de equipos [1]
+Equipo
+Argentina
+BraZil
+Ecuador
+Perú
+...
+Presione ENTER para continuar
+ 
+Menu AGREGAR [2]
+
+Ingrese nombre de equipo: Bolivia
+Mensaje: Equipo agregado!!!
+Presione ENTER para continuar
+
+Menu ELIMINAR [3]
+Ingrese nombre del equipo: Ecuador
+Mensaje: Equipo elimnado!!!
+ 
+Presione ENTER para continuar
+
+Menu ACTUALIZAR [2]
+Ingrese nombre del equipo: BraZil
+Nuevo Nombre: Brasil
+Mensaje: Equipo actualizado!!!
+
+Presione ENTER para continuar
+
