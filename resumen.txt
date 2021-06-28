@@ -1,0 +1,13 @@
+MENU Clasificatorias 2022 Qatar
+
+1. Administrador
+2. Usuario
+3. Salir
+Digite opcion: 1
+
+MENU ADMINISTRADOR
+1- Mantenimiento a los equipos
+2- Mantenimiento de jugadores
+3- Mantenimiento de las fechas 
+4- Mantenimiento de las sedes
+Digite opcion: 1
